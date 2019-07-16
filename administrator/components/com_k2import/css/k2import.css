@@ -1,0 +1,117 @@
+#k2import_assoc_header_row {
+	display: table-row;
+	font-size: 125%;
+	font-weight: bolder;
+	text-align: center;
+	
+}
+#k2import_assoc_header_row div {
+	display: table-cell;
+	padding-bottom: 13px;
+	
+}
+form.k2import {
+	display: table;
+	width: 95%;
+}
+
+div.k2importfield {
+	border-bottom: 1px dotted;
+	clear: both;
+	font-size: 120%;
+	padding-top:2px;
+	display: table-row;
+}
+
+select.k2importfield {
+	margin-bottom: 2px;
+}
+
+input.k2importfield {
+	width: 100%;
+}
+
+div.k2importtitle {
+	display: table-cell;
+	width: 13%;
+}
+
+div.k2importselect {
+	display: table-cell;
+	font-size: 120%;
+	vertical-align: top;
+	width: 20%;
+}
+
+div.k2attachments div.k2importselect {
+	display: block;
+	vertical-align: bottom;
+}
+
+div.k2attachments
+{
+	display: inline-block;
+	left:-17px;
+position:relative;
+}
+
+select.k2importfield
+{
+	vertical-align:text-top;
+}
+div.k2optionscount {
+	display: inline;
+}
+
+form.k2import button {
+	clear: both;
+	float: left;
+}
+
+#system-message li {
+	padding-left: 30px;
+}
+
+span.editlinktip
+{
+	padding-left:20px;
+}
+
+#k2importfield_attachment, #k2importfield_attachment_title , #k2importfield_attachment_title_attribute
+{
+height: 100%;
+		
+}
+
+div.k2import_message
+{
+	display: list-item;
+	    font-size: 120%;
+    margin-left: 10px;
+}
+
+div.k2import_rows_left
+{
+	padding-bottom: 10px;
+}
+
+#k2import_selectfile_form, #k2import_selectfile_td
+{
+text-align: left;	
+}
+
+#k2import_selectfile_form_div, #k2import_selectfile_form_submit_div
+{
+display: inline-block;
+vertical-align: top;
+}
+
+
+
+
+
+	
+#existingFileValue
+{
+	margin-top:10px;
+}

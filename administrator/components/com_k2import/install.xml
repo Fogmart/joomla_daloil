@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="3.0" method="upgrade">
+	<name>K2 Import</name>
+	<!-- The following elements are optional and free of formatting conttraints -->
+	<creationDate>2017-04-28</creationDate>
+	<author>Artur Neumann</author>
+	<authorEmail>info@individual-it.net</authorEmail>
+	<authorUrl>http://individual-it.net</authorUrl>
+	<copyright></copyright>
+	<license>GPL</license>
+	<!--  The version string is recorded in the components table -->
+	<version>2.5</version>
+	<!-- The description is optional and defaults to the name -->
+	<description>A component for import/export data to/from K2</description>
+  	<updateservers>
+    	<server type="extension" priority="1" name="K2 Import 2 Updates">http://www.individual-it.net/joomla_components_updates/k2import_component_for_joomla_3.xml</server>
+ 	</updateservers>
+	<files folder="site">
+		<filename>LICENSE.php</filename>
+		<filename>index.html</filename>
+	</files>
+
+	<administration>
+		<!-- Administration Menu Section -->
+
+		  <menu link="option=com_k2import">COM_K2IMPORT</menu>  
+ 
+		<!-- Administration Main File Copy Section -->
+		<!-- Note the folder attribute: This attribute describes the folder
+			to copy FROM in the package to install therefore files copied
+			in this section are copied from /admin/ in the package -->
+		<files folder="admin">
+			<!-- Site Main File Copy Section -->
+	
+			<filename>index.html</filename>
+			<filename>helper.php</filename>
+			<filename>k2import.php</filename>
+			<filename>controller.php</filename>
+			<folder>views</folder>
+			<folder>tables</folder>
+			<folder>icons</folder>
+			<folder>models</folder>
+			<folder>button</folder>
+			<folder>controllers</folder>
+			<folder>js</folder>
+			<folder>css</folder>		
+			<folder>icons</folder>	
+			<folder>language</folder>		
+
+
+		</files>
+		
+
+	</administration>
+</extension>

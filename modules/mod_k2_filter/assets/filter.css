@@ -1,0 +1,94 @@
+/* backend styles */
+.clear {clear: both;}
+select.FilterSelect { width: 300px; }
+#sortableFields {overflow: hidden; margin: 5px 0 10px 0; list-style: none; width: 95%;}
+#sortableFields li { position: relative; color:#369; margin:0; padding:5px 5px 5px 10px; background:#d5e7fa; border-bottom:1px solid #96b0cb; cursor: pointer; font-size: 12px; border-top: 1px solid #fff; border-radius: 3px;}
+#sortableFields li .sortableRightBlock { float: right; padding-right: 3px; }
+.field_type_select { margin: 0 7px 0 0; font-size: 10px; position: absolute; right: 15px; top: 5px; width: auto !important; height: auto !important; padding: 0 !important; font-size: 12px; }
+.deleteFilter { font-size: 11px; }
+.form-horizontal .control-label { max-width: 160px; }
+#module-form .btn-group .btn-success { background: #3fa800 !important; color: #fff !important; box-shadow: 0 1px 1px rgba(65,64,66,.14) !important; }
+
+/* frontend styles */
+
+.k2filter-cell {
+	float: left;
+	/*padding: 0 10px 10px 0;*/
+	position: relative;
+}
+
+.K2FilterBlock h3 { font-size: 16px; }
+
+.K2FilterBlock input.button {
+	margin-top: 10px;
+	text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.6) !important;
+font-weight: bold;
+}
+
+.k2filter-table button {
+	width: 100% !important;
+	min-width: 210px;
+	padding-left: 8px;
+}
+
+.k2filter-cell select { width: 100%; }
+
+.K2FilterBlock .k2filter-slider-amount {
+	border: none; 
+	width: 100%;
+	text-align: center; height: auto !important;
+	background: none !important;    
+}
+
+.K2FilterClear {
+	display: block;
+	clear: both;
+}
+
+.K2FilterBlock label {	display: block !important; font-weight: normal !important; margin-left: 25px; }
+.K2FilterBlock .k2filter-field-radio, 
+.K2FilterBlock .k2filter-field-multi,
+.K2FilterBlock .k2filter-field-category-checkbox,
+.K2FilterBlock .k2filter-field-tag-multi { position: relative; }
+.K2FilterBlock .k2filter-field-radio input, 
+.K2FilterBlock .k2filter-field-multi input,
+.K2FilterBlock .k2filter-field-category-checkbox input,
+.K2FilterBlock .k2filter-field-tag-multi input { position: absolute; }
+
+.K2FilterBlock .k2filter-field-category-checkbox label { display: inline-block !important; }
+.K2FilterBlock .k2filter-field-category-checkbox input { margin-left: 2px; }
+
+.K2FilterBlock a.uncheck {
+	margin-top: 5px !important;
+}
+
+.K2FilterBlock .dynoloader {
+	position: absolute;
+	top: 15px;
+	right: 30px;
+}
+
+.K2FilterBlock input.datepicker, .K2FilterBlock input.range{ display: inline; max-width: 110px; box-sizing: border-box; }
+
+.K2FilterBlock .k2filter-keyword .inputbox { width: 100%; }
+
+.K2FilterBlock .label { margin-right: 2px; }
+
+.K2FilterBlock .acounter { margin-top: 10px; }
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default { font-weight: normal !important; font-size: 16px !important; }
+.ui-multiselect-filter input { width: 90px !important; margin-left: 0px !important; border: 1px solid #999 !important; }
+.ui-multiselect-checkboxes label { position: relative; }
+.ui-multiselect-checkboxes label input { position: absolute !important; top: 1px !important; left: 6px; outline: none !important; }
+.ui-multiselect-checkboxes label span { display: block; margin-left: 23px; }
+.ui-multiselect-checkboxes label.ui-state-hover,
+.ui-multiselect-checkboxes label { font-weight: normal; }
+.ui-multiselect-header { margin-bottom: 7px !important; }
+#ui-datepicker-div { z-index: 10000 !important; }
+
+.k2filter-responsive .k2filter-cell { width: 250px; min-height: 105px; /*margin-left: 20px; */}
+.k2filter-responsive input.submit {  }
+
+@media (max-width: 500px) {
+}
+input[type="radio"], input[type="checkbox"] {margin: 6px;  vertical-align: middle; }

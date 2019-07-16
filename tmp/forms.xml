@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<baforms>
+  <baform>
+    <form>
+      <id>2</id>
+      <title>&#x41E;&#x431;&#x440;&#x430;&#x442;&#x43D;&#x430;&#x44F; &#x441;&#x432;&#x44F;&#x437;&#x44C;</title>
+      <title_settings>font-size:26px; font-weight:normal; text-align:left;color:rgba(17, 17, 17, 1);</title_settings>
+      <form_settings>/14px/rgba(51, 51, 51, 1)/38px/14px/rgba(153, 153, 153, 1)/rgba(255, 255, 255, 1)/border: 1px solid rgba(243, 243, 243, 1)/2px/width: 100%;background-color: rgba(255, 255, 255, 0);border: 1px solid rgba(255, 255, 255, 0);border-radius: 0px/normal/14/rgba(217, 217, 217, 1)/Total/left/</form_settings>
+      <ordering>0</ordering>
+      <published>1</published>
+      <alow_captcha>0</alow_captcha>
+      <display_title>0</display_title>
+      <sent_massage>&lt;h3 style="text-align:center"&gt;&#x41F;&#x43E;&#x437;&#x434;&#x440;&#x430;&#x432;&#x43B;&#x44F;&#x435;&#x43C;!&lt;/h3&gt;&#xD;
+&#xD;
+&lt;p style="text-align:center"&gt;&lt;span style="font-size:16px"&gt;&#x412;&#x430;&#x448;&#x435; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435; &#x431;&#x44B;&#x43B;&#x43E; &#x443;&#x441;&#x43F;&#x435;&#x448;&#x43D;&#x43E; &#x43E;&#x442;&#x43F;&#x440;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x43E;!&lt;/span&gt;&lt;br /&gt;&#xD;
+&amp;nbsp;&lt;/p&gt;&#xD;
+</sent_massage>
+      <error_massage>&lt;h3 style="text-align:center"&gt;&#x41E;&#x448;&#x438;&#x431;&#x43A;&#x430; &#x43E;&#x442;&#x43F;&#x440;&#x430;&#x432;&#x43A;&#x438; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x44F;!&lt;/h3&gt;&#xD;
+&#xD;
+&lt;p style="text-align:center"&gt;&lt;span style="font-size:16px"&gt;&#x412;&#x430;&#x448;&#x435; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435; &#x43D;&#x435; &#x43C;&#x43E;&#x436;&#x435;&#x442; &#x431;&#x44B;&#x442;&#x44C; &#x43E;&#x442;&#x43F;&#x440;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x43E;.&lt;/span&gt;&lt;/p&gt;</error_massage>
+      <redirect_url></redirect_url>
+      <email_recipient>foreigne_trade@nvt.vl.ru</email_recipient>
+      <email_subject>&#x417;&#x430;&#x43F;&#x440;&#x43E;&#x441; &#x43E;&#x431;&#x440;&#x430;&#x442;&#x43D;&#x430;&#x44F; &#x441;&#x432;&#x44F;&#x437;&#x44C; &#x441; &#x441;&#x430;&#x439;&#x442;&#x430; &#x41E;&#x41E;&#x41E; &#xAB;&#x41B;&#x43E;&#x433;&#x43E;-&#x422;&#xBB; logo-tvl.com</email_subject>
+      <email_body></email_body>
+      <sender_name>John Doe</sender_name>
+      <sender_email></sender_email>
+      <reply_subject>&#x421;&#x43F;&#x430;&#x441;&#x438;&#x431;&#x43E; &#x432;&#x430;&#x448;&#x435; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435; &#x43E;&#x442;&#x43F;&#x440;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x43E;!</reply_subject>
+      <reply_body>&lt;p&gt;&#x421;&#x43F;&#x430;&#x441;&#x438;&#x431;&#x43E;, &#x447;&#x442;&#x43E; &#x437;&#x430;&#x43F;&#x43E;&#x43B;&#x43D;&#x438;&#x43B;&#x438; &#x444;&#x43E;&#x440;&#x43C;&#x443;! &#x412;&#x430;&#x448;&#x430; &#x438;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x438;&#x44F; &#x443;&#x441;&#x43F;&#x435;&#x448;&#x43D;&#x43E; &#x43E;&#x442;&#x43F;&#x440;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x430;. &#x41C;&#x44B; &#x43E;&#x431;&#x440;&#x430;&#x431;&#x43E;&#x442;&#x430;&#x435;&#x43C; &#x435;&#x433;&#x43E; &#x441;&#x43E;&#x434;&#x435;&#x440;&#x436;&#x438;&#x43C;&#x43E;&#x435; &#x438; &#x432;&#x435;&#x440;&#x43D;&#x435;&#x43C;&#x441;&#x44F; &#x43A; &#x432;&#x430;&#x43C; &#x43A;&#x430;&#x43A; &#x43C;&#x43E;&#x436;&#x43D;&#x43E; &#x441;&#x43A;&#x43E;&#x440;&#x435;&#x435;.&lt;/p&gt;&#xD;
+</reply_body>
+      <display_popup>0</display_popup>
+      <button_lable></button_lable>
+      <button_position>default</button_position>
+      <button_bg>rgba(2, 173, 234, 1)</button_bg>
+      <button_color>rgba(250, 250, 250, 1)</button_color>
+      <button_font_size>14</button_font_size>
+      <button_border>3</button_border>
+      <button_weight>normal</button_weight>
+      <display_submit>1</display_submit>
+      <submit_embed></submit_embed>
+      <message_bg_rgba>rgba(255, 255, 255, 1)</message_bg_rgba>
+      <message_color_rgba>rgba(51, 51, 51, 1)</message_color_rgba>
+      <dialog_color_rgba>rgba(0, 0, 0, 0.37)</dialog_color_rgba>
+      <add_sender_email>0</add_sender_email>
+      <copy_submitted_data>1</copy_submitted_data>
+      <modal_width>500</modal_width>
+      <display_total>0</display_total>
+      <currency_code></currency_code>
+      <currency_symbol></currency_symbol>
+      <payment_methods></payment_methods>
+      <return_url></return_url>
+      <cancel_url></cancel_url>
+      <paypal_email></paypal_email>
+      <payment_environment></payment_environment>
+      <seller_id></seller_id>
+      <skrill_email></skrill_email>
+      <webmoney_purse></webmoney_purse>
+      <check_ip>0</check_ip>
+      <payu_api_key></payu_api_key>
+      <payu_merchant_id></payu_merchant_id>
+      <payu_account_id></payu_account_id>
+      <button_type></button_type>
+      <email_letter>&lt;table class="parent-table" style="width: 100%; background-color: rgb(255, 255, 255);"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table style="width: 100%; background-color: transparent; margin: 0px auto; border-spacing: 0px;" class="second-table"&gt;&lt;tbody&gt;&lt;tr class="ba-section"&gt;&lt;td style="width:100%; padding: 0 20px;"&gt;&lt;table style="width: 100%; background-color: rgba(0,0,0,0); color: #333333; border-top: 1px solid #f3f3f3; border-right: 1px solid #f3f3f3; border-bottom: 1px solid #f3f3f3; border-left: 1px solid #f3f3f3; margin-top: 10px; margin-bottom: 10px;"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="droppad_area" style="width:100%; padding: 20px;"&gt;&lt;div class="droppad_item system-item" data-item="[item=3]" style="color: rgb(17, 17, 17); font-size: 14px; font-weight: normal; line-height: 200%; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial;"&gt;[Field=&#x424;.&#x418;.&#x41E;.]&lt;/div&gt;&lt;div class="droppad_item system-item" data-item="[item=4]" style="color: rgb(17, 17, 17); font-size: 14px; font-weight: normal; line-height: 200%; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial;"&gt;[Field=E-mail]&lt;/div&gt;&lt;div class="droppad_item system-item" data-item="[item=5]" style="color: rgb(17, 17, 17); font-size: 14px; font-weight: normal; line-height: 200%; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial;"&gt;[Field=&#x422;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D;]&lt;/div&gt;&lt;div class="droppad_item system-item" data-item="[item=6]" style="color: rgb(17, 17, 17); font-size: 14px; font-weight: normal; line-height: 200%; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial;"&gt;[Field=&#x41E;&#x43F;&#x438;&#x441;&#x430;&#x43D;&#x438;&#x435; ]&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</email_letter>
+      <display_cart>0</display_cart>
+      <currency_position>before</currency_position>
+      <multiple_payment>0</multiple_payment>
+      <custom_payment>Custom Payment</custom_payment>
+      <mailchimp_api_key></mailchimp_api_key>
+      <mailchimp_list_id></mailchimp_list_id>
+      <mailchimp_fields_map>{}</mailchimp_fields_map>
+      <stripe_api_key></stripe_api_key>
+      <stripe_secret_key></stripe_secret_key>
+      <stripe_image></stripe_image>
+      <stripe_name></stripe_name>
+      <stripe_description></stripe_description>
+      <theme_color>rgba(0, 157, 220, 1)</theme_color>
+      <email_options>{"color":"rgba(17, 17, 17, 1)","size":"14","weight":"normal","bg":"rgba(255, 255, 255, 1)","width":"100"}</email_options>
+      <mollie_api_key></mollie_api_key>
+      <telegram_token></telegram_token>
+      <payu_biz_merchant></payu_biz_merchant>
+      <payu_biz_salt></payu_biz_salt>
+      <save_continue>0</save_continue>
+      <save_continue_label>Save and Continue</save_continue_label>
+      <save_continue_size>13</save_continue_size>
+      <save_continue_weight>normal</save_continue_weight>
+      <save_continue_align>center</save_continue_align>
+      <save_continue_color>rgba(0, 157, 220, 1)</save_continue_color>
+      <save_continue_popup_title>Save and Continue Later</save_continue_popup_title>
+      <save_continue_popup_message>&lt;p&gt;The data you filled in the form has been saved. Please use the following link to return to form. The link will expire after 30 days!&lt;/p&gt;&lt;p&gt;[ba-form-token-link]&lt;/p&gt;&lt;p&gt;Enter your email address and link will be emailed to you!&lt;/p&gt;</save_continue_popup_message>
+      <save_continue_subject>Don't forget to complete the form you started!</save_continue_subject>
+      <save_continue_email>Your progress has been saved. When you are ready to complete form, please follow this link: [ba-form-token-link]</save_continue_email>
+      <ccavenue_merchant_id></ccavenue_merchant_id>
+      <ccavenue_working_key></ccavenue_working_key>
+      <load_jquery>1</load_jquery>
+    </form>
+    <columns>
+      <column>
+        <id>28</id>
+        <form_id>2</form_id>
+        <settings>bacolumn-1,span12,first</settings>
+      </column>
+    </columns>
+    <items>
+      <item>
+        <id>2</id>
+        <form_id>2</form_id>
+        <column_id>0</column_id>
+        <settings>button_-_&#x41E;&#x442;&#x43F;&#x440;&#x430;&#x432;&#x438;&#x442;&#x44C;_-_width:80%;height:40px;background-color:rgba(255, 255, 255, 0.43);color:rgba(51, 51, 51, 1);font-size:14px;font-weight:normal;border-radius:50px;border: none;_-_text-align: center;</settings>
+        <custom></custom>
+        <options></options>
+      </item>
+      <item>
+        <id>3</id>
+        <form_id>2</form_id>
+        <column_id>1</column_id>
+        <settings>bacolumn-1_-_baform-1_-_textInput_-_;&#x438;&#x41C;&#x42F;;&#x424;.&#x418;.&#x41E;.;1;regular;zmdi zmdi-account_-__-_</settings>
+        <custom></custom>
+        <options>{"max":""}</options>
+      </item>
+      <item>
+        <id>4</id>
+        <form_id>2</form_id>
+        <column_id>2</column_id>
+        <settings>bacolumn-1_-_baform-3_-_textInput_-_;E-mail;E-mail;1;regular;zmdi zmdi-email_-__-_</settings>
+        <custom></custom>
+        <options>{"max":""}</options>
+      </item>
+      <item>
+        <id>5</id>
+        <form_id>2</form_id>
+        <column_id>3</column_id>
+        <settings>bacolumn-1_-_baform-4_-_textInput_-_;&#x422;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D;;&#x422;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D;;1;number;zmdi zmdi-phone_-__-_</settings>
+        <custom></custom>
+        <options>{"max":""}</options>
+      </item>
+      <item>
+        <id>6</id>
+        <form_id>2</form_id>
+        <column_id>4</column_id>
+        <settings>bacolumn-1_-_baform-2_-_textarea_-_;&#x41E;&#x43F;&#x438;&#x441;&#x430;&#x43D;&#x438;&#x435; ;&#x41E;&#x43F;&#x438;&#x441;&#x430;&#x43D;&#x438;&#x435; ;1;120;zmdi zmdi-edit_-__-_</settings>
+        <custom></custom>
+        <options>{"max":""}</options>
+      </item>
+    </items>
+  </baform>
+  <themes/>
+</baforms>
